@@ -1,6 +1,6 @@
 ---
 layout: post
-title: researchHMT2
+title: Project
 description: a manufactured diversification discount
 img: /img/12.jpg
 ---
