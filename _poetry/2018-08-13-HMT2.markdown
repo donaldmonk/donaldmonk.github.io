@@ -1,0 +1,9 @@
+---
+layout: post
+title: a manufactured diversification discount
+date: 2018-08-13 14:54:00
+---
+
+Abstract: The widely used measure of diversification value developed by Berger and Ofek (1995) consistently matches large and old diversified firms with small and young focused ﬁrms. Since valuation multiples decline with sales and age this approach manufactures a discount. We develop a new measure based on sales and age matching and show that it leads to different and more intuitive conclusions than the traditional measure. Using daily return covariances, we show that the imputed portfolio of focused sales- and age-matched ﬁrms generating our measure is twice as related to the diversified ﬁrm as the imputed portfolio in Berger and Ofek (1995) and when return-weighted there is no value difference between focused and diversified ﬁrms. We generate excess values using the traditional methodology but with industry classifications from Fama and French (1997) and Hoberg and Phillips (2016) as well as randomized and permuted SIC codes and show that these different classifications produce nearly identical discounts indicating that segment-level industry is not a powerful driver of valuation multiples. We also investigate whether endogeneity removes the traditional discount and find that it does not. The diversification discount is about construction and not selection, and for most ﬁrms it is an artifact of the methods used to create it.
+
+### John Hund, Don Monk, and Sheri Tice
