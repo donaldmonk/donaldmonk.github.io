@@ -19,7 +19,7 @@ paginate_path: "/blog/page:num/"
 
 
 collections:
-  portfolio:
+  research:
     output: true
     permalink: /research/:path/
   poetry:
