@@ -1,21 +1,11 @@
 ---
 layout: post
-title: Project
-description: a project with a background image
+title: researchHMT2
+description: a manufactured diversification discount
 img: /img/12.jpg
 ---
 
-Every project has a beautiful feature showcase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-	---
-	layout: post
-	title: Project
-	description: a project with a background image
-	img: /img/12.jpg
-	---
-
+Abstract: The widely used measure of diversification value developed by Berger and Ofek (1995) consistently matches large and old diversified firms with small and young focused ﬁrms. Since valuation multiples decline with sales and age this approach manufactures a discount. We develop a new measure based on sales and age matching and show that it leads to different and more intuitive conclusions than the traditional measure. Using daily return covariances, we show that the imputed portfolio of focused sales- and age-matched ﬁrms generating our measure is twice as related to the diversified ﬁrm as the imputed portfolio in Berger and Ofek (1995) and when return-weighted there is no value difference between focused and diversified ﬁrms. We generate excess values using the traditional methodology but with industry classifications from Fama and French (1997) and Hoberg and Phillips (2016) as well as randomized and permuted SIC codes and show that these different classifications produce nearly identical discounts indicating that segment-level industry is not a powerful driver of valuation multiples. We also investigate whether endogeneity removes the traditional discount and find that it does not. The diversification discount is about construction and not selection, and for most ﬁrms it is an artifact of the methods used to create it.
 
 <div class="img_row">
 	<img class="col one" src="{{ site.baseurl }}/img/1.jpg" alt="" title="example image"/>
